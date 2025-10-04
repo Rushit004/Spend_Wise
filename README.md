@@ -1,7 +1,5 @@
 # SpendWise - AI-Powered Expense Management
 
-![SpendWise Dashboard Screenshot](https://storage.googleapis.com/aistudio-programmable-ui-project-assets/gallery-assets/spendwise-dashboard.png)
-
 SpendWise is a comprehensive, front-end demo application for expense management. It leverages the Google Gemini API for intelligent receipt scanning and features role-based access for employees, managers, and administrators.
 
 **Key Characteristic:** All application data (users, expenses, companies, etc.) is stored exclusively in your browser's **local storage**. This makes it a perfect, self-contained demo that runs without a backend server.

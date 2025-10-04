@@ -1,0 +1,5 @@
+{
+  "name": "SpendWise - AI-Powered Expense Management",
+  "description": "A comprehensive expense management application that allows employees to submit expenses with AI-powered receipt scanning, managers to approve requests through customizable multi-level workflows, and admins to manage the entire system. All data is stored locally in your browser.",
+  "requestFramePermissions": []
+}
